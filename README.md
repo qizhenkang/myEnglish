@@ -20,7 +20,7 @@ To improve programming skills and seek employment in the future, I have been sol
 | :----: | :------------------------------------------------------ | :-----------: | :-----: | :--------: |
 |   1    | It is very common for Chinese to exchange lavish gifts. |       G       |  ★★★★☆  | 2021/10/07 |
 
-## Life in English
+## Stories & Ideas
 
 In general, people focus on the story of an star professor or an excellent student, while a large number of those of the ordinary are ignored. Therefore, I have no choice but to put my story here.
 
