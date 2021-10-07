@@ -1,2 +1,5 @@
 # myEnglish
-My English learning footprint 
+
+This is Zhenkang's English learning footprint.
+
+##
