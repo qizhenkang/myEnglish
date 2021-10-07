@@ -2,7 +2,7 @@
 
 This is _Zhenkang_[^1]'s English learning footprint.
 
-Now, I'm a Ph.D. candidate in Tsinghua University, China. Until recently, I have realised English is the window to the colorful world and I totally haven't open it.So, I decided to do something to re-understand the world.
+Now, I'm a Ph.D. candidate in Tsinghua University, China. Until recently, I have not realised English is the window to the colorful world and I haven't totally open it.So, I decided to do something to re-understand the world.
 
 ## Some resources on the internet
 
