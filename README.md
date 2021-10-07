@@ -22,7 +22,9 @@ To improve programming skills and seek employment in the future, I have been sol
 
 ## Stories & Ideas
 
-In Tsinghua, people focus on the story of an star professor or an excellent student, while a large number of those of the ordinary are ignored. Therefore, I have no choice but to put my story here.
+In Tsinghua, people focus on the story of an star professor or an excellent student, while a large number of those of the ordinary are ignored. Therefore, I have no choice but to put my story and idea here.
+
+---
 
 [^1]: More information about Zhenkang. -> [Zhenkang's Personal Page](https://qizhenkang.github.io/)
 [^2]: The International English Language Testing System ([IELTS](https://www.ielts.org/)).
