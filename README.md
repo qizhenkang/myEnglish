@@ -22,7 +22,7 @@ To improve programming skills and seek employment in the future, I have been sol
 
 ## Life in English
 
-In general, people focus on the story of a star such as an star professor or an excellent student, while a large number of stories of the normal are ignored. Therefore, I have to put my story here.
+In general, people focus on the story of an star professor or an excellent student, while a large number of stories of the ordinary are ignored. Therefore, I had no choice but to put my story here.
 
 [^1]: More information about Zhenkang. -> [Zhenkang's Personal Page](https://qizhenkang.github.io/)
 [^2]: The International English Language Testing System ([IELTS](https://www.ielts.org/)).
