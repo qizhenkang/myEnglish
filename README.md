@@ -13,7 +13,11 @@ I have chosen some materials to train my skills of Listening, Reading, Writing a
 
 ## My daily English
 
-**Small changes make a huge difference.** To improve programming skills and seek employment in the future, I have been solving the _[LeetCode](https://github.com/qizhenkang/myLeetCode)_ daily challenge. Similarly, I think it also helpful to practice English every day. So, the daily English studying is recorded here.
+**Small changes make a huge difference.** To improve programming skills and seek employment in the future, I have been solving the _[LeetCode](https://github.com/qizhenkang/myLeetCode)_ daily challenge. 
+Similarly, I think it also helpful to practice English every day. 
+So, the daily English studying is recorded here.
+
+To achieve the goal, I'd like to write something everyday. It may be a short story or a sparkle idea.  
 
 | Number | Sentence                                                | Structure[^3] | Mastery |    Time    |
 | :----: | :------------------------------------------------------ | :-----------: | :-----: | :--------: |
@@ -26,9 +30,11 @@ In Tsinghua, people focus on the story of an star professor or an excellent stud
 I'm born in a rural area of China, where I had a happy childhood. Working hard and showing perseverance in high school, I luckily had the access to almost the best tertiary eduction in China. Currently, I'm persuing the Ph.D. degree in Tsinghua University, China.
 
 A little bit unfortunately, to chase fame and fortune, my professor in Tsinghua usually asks me to do many non-academic affairs and there is **little academic guidance** for me.
-In fact, the quality of academic guidance from professor does make a huge difference to postgraduates' acadamic performance and job prospects.
+In fact, the quality of academic guidance from professor does make a huge difference to postgraduates' _acadamic performance_ and _job prospects_.
 
-My time for study and research is fragmentary, which is the reason why you can see this page.
+My time for study and research is fragmentary, which is the reason why you could see this page.
+
+<!-- ### Why is English so significant for non-native English people  -->
 
 <!-- show perseverance -->
 
