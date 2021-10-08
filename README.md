@@ -26,6 +26,8 @@ In Tsinghua, people focus on the story of an star professor or an excellent stud
 I'm born in a rural area of China, where I had a happy childhood. Working hard and showing perseverance in high school, I luckily had the access to almost the best tertiary eduction in China. Currently, I'm persuing the Ph.D. degree in Tsinghua University, China.
 
 A little bit unfortunately, to chase fame and fortune, my professor in Tsinghua usually asks me to do many non-academic affairs and there is **little academic guidance** for me.
+In fact, the quality of academic guidance from professor does make a huge difference to postgraduates' acadamic performance and job prospects.
+
 My time for study and research is fragmentary, which is the reason why you can see this page.
 
 <!-- show perseverance -->
