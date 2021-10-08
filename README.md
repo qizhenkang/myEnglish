@@ -36,6 +36,20 @@ In fact, the quality of academic guidance from professor does _make a huge diffe
 
 My time for study and research is fragmentary, which is the reason why you could see this page.
 
+### About China
+
+I'd like to write something about my motherland, China, from the perspective of a native resident.
+
+#### Developing
+
+Low-cost university education _makes it possible_ for students from less well-off backgrounds to _have equal access_ to _tertiary education_.
+_Online shopping_ has become a normal part of many students' everyday life.
+
+#### However
+
+However, Chinese society is becoming _highly competitive_ nowadays.
+The _ageing population_ and _soaring_ income gap make students feel under increasing pressure to study hard.
+
 <!-- ### Why is English so significant for non-native English people  -->
 
 <!-- show perseverance -->
