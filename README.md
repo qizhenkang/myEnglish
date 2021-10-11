@@ -9,7 +9,10 @@ So, I decided to do something to re-understand the world.
 
 In China, there are so many resources helping people to pass the _IELTS_[^2]. Among them, excellent learning materials and methods are posted on the internet.
 
-I have chosen some materials to train my skills of Listening, Reading, Writing and Speaking.
+In the area of Artificial Intelligence, _TRAINING_ may be one of the most famous and interesting. If you have enough _DATA_, you could train a perfect model by some advanced algorithm.
+
+Therefore, I have chosen some learning materials(DATA) as input to train myself, to improve the Listening, Reading, Writing and Speaking abilities.
+Similarly, words on this github page is the output of my brain _model_.
 
 ## My daily English
 
@@ -39,23 +42,26 @@ In Tsinghua, people focus on the story of an star professor or an excellent stud
 
 I'm born in a _rural_[^4] area of China, where I had a happy childhood. Working hard and _showing perseverance_ in high school, I luckily had the access to almost the best _tertiary education_ in China. Currently, I'm _pursuing_ the Ph.D. degree in Tsinghua University, China.
 
-A little bit unfortunately, to chase fame and fortune, my professor in Tsinghua usually asks me to do many non-academic affairs and there is **little academic guidance** for me.
+A little bit unfortunately, to chase fame and fortune, my professor usually asks me to do many non-academic affairs and there is **little academic guidance** for me.
 In fact, the quality of academic guidance from professor does _make a huge difference to_ postgraduates' _academic performance_ and _job prospects_.
+It is a _nightmare_ for me.
 
 My time for study and research is fragmentary, which is the reason why you could see this page.
 
-<!-- ### About China
+<!-- ### About
 
-I'd like to write something about my motherland, China, from the perspective of a native resident. -->
+I'd like to write something about my life, from the perspective of a native resident. -->
 
-#### Developing
+#### Life in Tsinghua
 
 Low-cost university education _makes it possible_ for students from less well-off backgrounds to _have equal access_ to _tertiary education_.
 _Online shopping_ has become a normal part of many students' everyday life.
 
-#### However
+#### Some troubles
 
-However, Chinese society is becoming _highly competitive_ nowadays.
+There is good and bad in everything. However, I habitually think about the bad side of things.
+
+However, our society is becoming _highly competitive_ nowadays.
 The _ageing population_ and _soaring_ income gap make students feel under increasing pressure to study hard.
 
 <!-- ### Why is English so significant for non-native English people  -->
