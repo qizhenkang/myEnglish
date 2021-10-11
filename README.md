@@ -17,9 +17,13 @@ I have chosen some materials to train my skills of Listening, Reading, Writing a
 Similarly, I think it also helpful to practice English every day.
 So, the daily English studying is recorded here.
 
-| Number | Sentence                                                | Structure[^3] | Mastery |    Time    |
-| :----: | :------------------------------------------------------ | :-----------: | :-----: | :--------: |
-|   1    | It is very common for Chinese to exchange lavish gifts. |       G       |  ★★★★☆  | 2021/10/07 |
+### Basic sentence pattern
+
+There are 18 basic sentence patterns as a tutorial for English writing.
+
+| Number | Sentence Pattern                                          |                Some Rules                 | Mastery |    Time    |
+| :----: | :-------------------------------------------------------- | :---------------------------------------: | :-----: | :--------: |
+|   1    | have a positive/significant/damaging effect/impact on ... | The difference between impact and effect. |  ★★☆☆☆  | 2021/10/11 |
 
 ## Stories & Ideas
 
@@ -36,9 +40,9 @@ In fact, the quality of academic guidance from professor does _make a huge diffe
 
 My time for study and research is fragmentary, which is the reason why you could see this page.
 
-### About China
+<!-- ### About China
 
-I'd like to write something about my motherland, China, from the perspective of a native resident.
+I'd like to write something about my motherland, China, from the perspective of a native resident. -->
 
 #### Developing
 
@@ -54,7 +58,10 @@ The _ageing population_ and _soaring_ income gap make students feel under increa
 
 <!-- show perseverance -->
 
+<!-- make a decent living -->
+
 [^1]: More information about Zhenkang. -> [Zhenkang's Personal Page](https://qizhenkang.github.io/)
 [^2]: The International English Language Testing System ([IELTS](https://www.ielts.org/)).
-[^3]: The structure of the sentence.
 [^4]: The italics are what I am learning.
+
+<!-- [^3]: The structure of the sentence. -->
