@@ -21,9 +21,11 @@ So, the daily English studying is recorded here.
 
 There are 18 basic sentence patterns as a tutorial for English writing.
 
-| Number | Sentence Pattern                                          |                Some Rules                 | Mastery |    Time    |
-| :----: | :-------------------------------------------------------- | :---------------------------------------: | :-----: | :--------: |
-|   1    | have a positive/significant/damaging effect/impact on ... | The difference between impact and effect. |  ★★☆☆☆  | 2021/10/11 |
+| Number | Sentence Pattern                                              |                  Some Rules                  | Mastery |
+| :----: | :------------------------------------------------------------ | :------------------------------------------: | :-----: |
+|   1    | sth have a positive/significant/damaging effect/impact on sth | The difference between _impact_ and _effect_ |  ★☆☆☆☆  |
+|   2    | It is appropriate/reasonable/ for sb to do sth                |       The _subject_ should be noticed        |  ★☆☆☆☆  |
+|   3    | sth enable/prompt/drive sb to do sth                          |       The _subject_ should be noticed        |  ★☆☆☆☆  |
 
 ## Stories & Ideas
 
