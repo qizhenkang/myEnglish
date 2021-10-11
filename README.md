@@ -21,13 +21,13 @@ So, the daily English studying is recorded here.
 
 There are 18 basic sentence patterns as an English writing tutorial.
 
-| Number | Sentence Pattern                                                   |                    Some Rules                     | Mastery |
-| :----: | :----------------------------------------------------------------- | :-----------------------------------------------: | :-----: |
-|   1    | sth have a positive/significant/damaging effect/impact on sth      |   The difference between _impact_ and _effect_    |  ★☆☆☆☆  |
-|   2    | It is appropriate/reasonable/ for sb to do sth                     |          The _subject_ should be noticed          |  ★☆☆☆☆  |
-|   3    | sth enable/prompt/drive sb to do sth                               |  _enable_/_prompt_ are used in _positive_ things  |  ★☆☆☆☆  |
+| Number | Sentence Pattern                                                   | Some Rules                                        | Mastery |
+| :----: | :----------------------------------------------------------------- | :------------------------------------------------ | :-----: |
+|   1    | sth have a positive/significant/damaging effect/impact on sth      | The difference between _impact_ and _effect_      |  ★☆☆☆☆  |
+|   2    | It is appropriate/reasonable/ for sb to do sth                     | The _subject_ should be noticed                   |  ★☆☆☆☆  |
+|   3    | sth enable/prompt/drive sb to do sth                               | _enable_/_prompt_ are used in _positive_ things   |  ★☆☆☆☆  |
 |   4    | sth be essential/vital/of value/critical/ to sb                    | You should know the _characteristics_ of the word |  ★☆☆☆☆  |
-|   5    | sth pose a threat to/ present obstacles to/ impose a burden on sth |              _to_ is a _preposition_              |  ★☆☆☆☆  |
+|   5    | sth pose a threat to/ present obstacles to/ impose a burden on sth | _to_ is a _preposition_                           |  ★☆☆☆☆  |
 
 ## Stories & Ideas
 
