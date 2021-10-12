@@ -9,7 +9,7 @@ So, I decided to do something to re-understand the world.
 
 In China, there are so many resources helping people to pass the _IELTS_[^2]. Among them, excellent learning materials and methods are posted on the internet.
 
-In the area of Artificial Intelligence, _TRAINING_ may be one of the most famous and interesting. If you have enough _DATA_, you could train a perfect model by some advanced algorithm.
+In the area of Artificial Intelligence, _TRAINING_ may be one of the most famous and interesting. If you have enough _DATA_, you could train a perfect model by some advanced algorithms.
 
 Therefore, I have chosen some learning materials(DATA) as input to train myself, to improve the Listening, Reading, Writing and Speaking abilities.
 Similarly, words on this github page is the output of my brain _model_.
