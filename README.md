@@ -52,7 +52,7 @@ My time for study and research is fragmentary, which is the reason why you could
 
 I'd like to write something about my life, from the perspective of a native resident. -->
 
-#### Life in Tsinghua
+## Life
 
 Low-cost university education _makes it possible_ for students from less well-off backgrounds to _have equal access_ to _tertiary education_.
 _Online shopping_ has become a normal part of many students' everyday life.
@@ -69,6 +69,12 @@ The _ageing population_ and _soaring_ income gap make students feel under increa
 <!-- show perseverance -->
 
 <!-- make a decent living -->
+
+## My Everyday Life
+
+| Number |        Date         | Things   | Mood  | Sports |
+| :----: | :-----------------: | :------- | :---: | :----: |
+|   1    | Sun., Oct. 24, 2021 | LeetCode | ★☆☆☆☆ |   No   |
 
 [^1]: More information about Zhenkang. -> [Zhenkang's Personal Page](https://qizhenkang.github.io/)
 [^2]: The International English Language Testing System ([IELTS](https://www.ielts.org/)).
