@@ -24,10 +24,10 @@ So, the daily English studying is recorded here.
 
 I stumbled upon the [Vocabulary.com](https://www.vocabulary.com/), which is a intelligent website to help to improve vocabulary.
 
-| Number | Questions Answered | Hours Spent | Points Scored |           Date            |
-| :----: | :----------------: | :---------: | :-----------: | :-----------------------: |
-|   1    |      36 / 50       |   45 min    |     3300      | Monday, October 25, 2021  |
-|   2    |      50 / 63       | 1 h 23 min  |     5700      | Tuesday, October 26, 2021 |
+| Number | Questions Answered[^question] | Hours Spent | Points Scored |           Date            |
+| :----: | :---------------------------: | :---------: | :-----------: | :-----------------------: |
+|   1    |            36 / 50            |   45 min    |     3300      | Monday, October 25, 2021  |
+|   2    |            50 / 63            | 1 h 23 min  |     5700      | Tuesday, October 26, 2021 |
 
 #### Shortcut
 
@@ -104,5 +104,6 @@ The _ageing population_ and _soaring_ income gap make students feel under increa
 [^ielts]: The International English Language Testing System ([IELTS](https://www.ielts.org/)).
 [^vocabulary]: The italics are what I am learning.
 [^plug-in]: Greasyfork Plug-in.
+[^question]: The number of questions answered are recorded. (Right questions / Total questions)
 
 <!-- [^3]: The structure of the sentence. -->
