@@ -20,6 +20,15 @@ Similarly, words on this github page is the output of my brain _model_.
 Similarly, I think it also helpful to practice English every day.
 So, the daily English studying is recorded here.
 
+### Vocabulary
+
+I stumbled upon the [Vocabulary.com](https://www.vocabulary.com/), which is a intelligent website to help to improve vocabulary.
+
+| Number | Questions Answered | Hours Spent | Points Scored |           Date            |
+| :----: | :----------------: | :---------: | :-----------: | :-----------------------: |
+|   1    |      36 / 50       |   45 min    |     3300      | Monday, October 25, 2021  |
+|   2    |      33 / 43       |   56 min    |     3900      | Tuesday, October 26, 2021 |
+
 ### Basic sentence pattern
 
 There are 18 basic sentence patterns as an English writing tutorial.
