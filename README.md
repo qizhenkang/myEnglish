@@ -27,7 +27,7 @@ I stumbled upon the [Vocabulary.com](https://www.vocabulary.com/), which is a in
 | Number | Questions Answered | Hours Spent | Points Scored |           Date            |
 | :----: | :----------------: | :---------: | :-----------: | :-----------------------: |
 |   1    |      36 / 50       |   45 min    |     3300      | Monday, October 25, 2021  |
-|   2    |      33 / 43       |   56 min    |     3900      | Tuesday, October 26, 2021 |
+|   2    |      50 / 63       | 1 h 23 min  |     5700      | Tuesday, October 26, 2021 |
 
 #### Shortcut
 
