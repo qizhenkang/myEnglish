@@ -33,16 +33,16 @@ I stumbled upon the [Vocabulary.com](https://www.vocabulary.com/), which is a in
 
 _Vocabulary.com_ has some shortcuts.
 
-| Number |          Key           |              Function               |
-| :----: | :--------------------: | :---------------------------------: |
-|   1    |         1 or A         |          Give the Answer A          |
-|   2    |         2 or B         |          Give the Answer B          |
-|   3    |         3 or C         |          Give the Answer C          |
-|   4    |         4 or D         |          Give the Answer D          |
-|   5    | Space or Enter or Left |            Next Question            |
-|   6    |           R            |       Repeat the Description        |
-|   7    |           Q            |           Question Again            |
-|   8    |           X            | Vocabulary pronunciation [^plug-in] |
+| Number |         Key          |              Function               |
+| :----: | :------------------: | :---------------------------------: |
+|   1    |        1 / A         |          Give the Answer A          |
+|   2    |        2 / B         |          Give the Answer B          |
+|   3    |        3 / C         |          Give the Answer C          |
+|   4    |        4 / D         |          Give the Answer D          |
+|   5    | Space / Enter / Left |            Next Question            |
+|   6    |          R           |       Repeat the Description        |
+|   7    |          Q           |           Question Again            |
+|   8    |          X           | Vocabulary pronunciation [^plug-in] |
 
 ### Basic sentence pattern
 
