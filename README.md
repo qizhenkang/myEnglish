@@ -1,13 +1,13 @@
 # myEnglish
 
-This is _Zhenkang_[^1]'s English learning footprint.
+This is _Zhenkang_[^my]'s English learning footprint.
 
 Until recently, I have not realized English is the window to the colorful world and I haven't totally open it.
 So, I decided to do something to re-understand the world.
 
 ## Some resources on the internet
 
-In China, there are so many resources helping people to pass the _IELTS_[^2]. Among them, excellent learning materials and methods are posted on the internet.
+In China, there are so many resources helping people to pass the _IELTS_[^ielts]. Among them, excellent learning materials and methods are posted on the internet.
 
 In the area of Artificial Intelligence, _TRAINING_ may be one of the most famous and interesting. If you have enough _DATA_, you could train a perfect model by some advanced algorithms.
 
@@ -20,7 +20,7 @@ Similarly, words on this github page is the output of my brain _model_.
 Similarly, I think it also helpful to practice English every day.
 So, the daily English studying is recorded here.
 
-### Vocabulary
+### Vocabulary.com
 
 I stumbled upon the [Vocabulary.com](https://www.vocabulary.com/), which is a intelligent website to help to improve vocabulary.
 
@@ -28,6 +28,21 @@ I stumbled upon the [Vocabulary.com](https://www.vocabulary.com/), which is a in
 | :----: | :----------------: | :---------: | :-----------: | :-----------------------: |
 |   1    |      36 / 50       |   45 min    |     3300      | Monday, October 25, 2021  |
 |   2    |      33 / 43       |   56 min    |     3900      | Tuesday, October 26, 2021 |
+
+#### Shortcut
+
+_Vocabulary.com_ has some shortcuts.
+
+| Number |          Key           |              Function               |
+| :----: | :--------------------: | :---------------------------------: |
+|   1    |         1 or A         |          Give the Answer A          |
+|   2    |         2 or B         |          Give the Answer B          |
+|   3    |         3 or C         |          Give the Answer C          |
+|   4    |         4 or D         |          Give the Answer D          |
+|   5    | Space or Enter or Left |            Next Question            |
+|   6    |           R            |       Repeat the Description        |
+|   7    |           Q            |           Question Again            |
+|   8    |           X            | Vocabulary pronunciation [^plug-in] |
 
 ### Basic sentence pattern
 
@@ -49,7 +64,7 @@ To achieve the goal above, I'd like to write something everyday. It may be a sho
 
 In Tsinghua, people focus on the story of an star professor or an excellent student, while a large number of those of the ordinary are ignored. Therefore, I have no choice but to put my story and idea here.
 
-I'm born in a _rural_[^4] area of China, where I had a happy childhood. Working hard and _showing perseverance_ in high school, I luckily had the access to almost the best _tertiary education_ in China. Currently, I'm _pursuing_ the Ph.D. degree in Tsinghua University, China.
+I'm born in a _rural_[^vocabulary] area of China, where I had a happy childhood. Working hard and _showing perseverance_ in high school, I luckily had the access to almost the best _tertiary education_ in China. Currently, I'm _pursuing_ the Ph.D. degree in Tsinghua University, China.
 
 A little bit unfortunately, to chase fame and fortune, my professor usually asks me to do many non-academic affairs and there is **little academic guidance** for me.
 In fact, the quality of academic guidance from professor does _make a huge difference to_ postgraduates' _academic performance_ and _job prospects_.
@@ -85,8 +100,9 @@ The _ageing population_ and _soaring_ income gap make students feel under increa
 | :----: | :-----------------: | :------- | :---: | :----: |
 |   1    | Sun., Oct. 24, 2021 | LeetCode | ★☆☆☆☆ |   No   |
 
-[^1]: More information about Zhenkang. -> [Zhenkang's Personal Page](https://qizhenkang.github.io/)
-[^2]: The International English Language Testing System ([IELTS](https://www.ielts.org/)).
-[^4]: The italics are what I am learning.
+[^my]: More information about Zhenkang. -> [Zhenkang's Personal Page](https://qizhenkang.github.io/)
+[^ielts]: The International English Language Testing System ([IELTS](https://www.ielts.org/)).
+[^vocabulary]: The italics are what I am learning.
+[^plug-in]: Greasyfork Plug-in.
 
 <!-- [^3]: The structure of the sentence. -->
