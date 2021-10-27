@@ -24,6 +24,8 @@ So, the daily English studying is recorded here.
 
 I stumbled upon the [Vocabulary.com](https://www.vocabulary.com/), which is a intelligent website to help to improve vocabulary.
 
+_Vocabulary.com_ combines _the world's smartest dictionary_ with [an adaptive learning game](https://www.vocabulary.com/howitworks/) that will have you mastering new words in no time.
+
 | Number | Questions Answered[^question] | Words Mastered | Hours Spent | Points Scored |            Date             |
 | :----: | :---------------------------: | :------------: | :---------: | :-----------: | :-------------------------: |
 |   1    |            36 / 50            |       0        |   45 min    |     3300      |  Monday, October 25, 2021   |
@@ -34,16 +36,16 @@ I stumbled upon the [Vocabulary.com](https://www.vocabulary.com/), which is a in
 
 _Vocabulary.com_ has some shortcuts.
 
-| Number |         Key          |              Function               |
-| :----: | :------------------: | :---------------------------------: |
-|   1    |        1 / A         |          Give the Answer A          |
-|   2    |        2 / B         |          Give the Answer B          |
-|   3    |        3 / C         |          Give the Answer C          |
-|   4    |        4 / D         |          Give the Answer D          |
-|   5    | Space / Enter / Left |            Next Question            |
-|   6    |          R           |       Repeat the Description        |
-|   7    |          Q           |           Question Again            |
-|   8    |          X           | Vocabulary pronunciation [^plug-in] |
+| Number |         Key          |        Function        |
+| :----: | :------------------: | :--------------------: |
+|   1    |        1 / A         |       Answer _A_       |
+|   2    |        2 / B         |       Answer _B_       |
+|   3    |        3 / C         |       Answer _C_       |
+|   4    |        4 / D         |       Answer _D_       |
+|   5    | Space / Enter / Left |     Next Question      |
+|   6    |          R           | Repeat the Description |
+|   7    |          Q           |     Question Again     |
+|   8    |     X[^plug-in]      |   Word Pronunciation   |
 
 ### Basic sentence pattern
 
