@@ -24,10 +24,11 @@ So, the daily English studying is recorded here.
 
 I stumbled upon the [Vocabulary.com](https://www.vocabulary.com/), which is a intelligent website to help to improve vocabulary.
 
-| Number | Questions Answered[^question] | Hours Spent | Points Scored |           Date            |
-| :----: | :---------------------------: | :---------: | :-----------: | :-----------------------: |
-|   1    |            36 / 50            |   45 min    |     3300      | Monday, October 25, 2021  |
-|   2    |            50 / 63            | 1 h 23 min  |     5700      | Tuesday, October 26, 2021 |
+| Number | Questions Answered[^question] | Words Mastered | Hours Spent | Points Scored |            Date             |
+| :----: | :---------------------------: | :------------: | :---------: | :-----------: | :-------------------------: |
+|   1    |            36 / 50            |       0        |   45 min    |     3300      |  Monday, October 25, 2021   |
+|   2    |            55 / 69            |       0        | 1 h 29 min  |     6650      |  Tuesday, October 26, 2021  |
+|   3    |            68 / 81            |       4        | 1 h 20 min  |     12713     | Wednesday, October 27, 2021 |
 
 #### Shortcut
 
